@@ -29,6 +29,5 @@ class App < Sinatra::Base
     end
     array.join(" ")
   end
-       
-  end
+
 end
